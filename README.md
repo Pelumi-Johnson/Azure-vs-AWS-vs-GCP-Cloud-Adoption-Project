@@ -1,10 +1,13 @@
 # 🌥️ Azure vs AWS vs GCP | Cloud Adoption Project
-A cloud comparison and migration strategy for enterprise expansion.
+### A cloud comparison and migration strategy for enterprise expansion.
 
 <img src="https://img.shields.io/badge/Azure-008AD7?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud_Architecture-6A5ACD?style=flat-square" />
 
+📄 Full Lab Report:
+
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Azure-vs-AWS-vs-GCP-Cloud-Adoption-Project/blob/main/CloudPresentationTemplate%20(3).pptx.pdf)
 
 ---
 
