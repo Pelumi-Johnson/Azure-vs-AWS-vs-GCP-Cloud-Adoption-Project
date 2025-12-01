@@ -5,19 +5,18 @@ A cloud comparison and migration strategy for enterprise expansion.
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud_Architecture-6A5ACD?style=flat-square" />
 
+
 ---
 
 ## 📌 Project Overview
-This project analyzes how cloud adoption can support Don & Associates a 200 employee consulting firm headquartered in New Jersey—during its planned expansion across the East Coast.  
-The company faces challenges with on-premises servers, limited scalability, slow collaboration tools, and high maintenance workloads.  
-This report evaluates the top three cloud providers and offers a migration recommendation tailored to business growth.
+This project analyzes how cloud adoption can support Don & Associates a 200 employee consulting firm headquartered in New Jersey during its planned expansion across the East Coast. The company faces challenges with on-premises servers, limited scalability, slow collaboration tools, and high maintenance workloads. This report evaluates the top three cloud providers and offers a migration recommendation tailored to business growth.
 
 ---
 
 ## 🏢 Company Profile
 - Mid-sized consulting firm in New Jersey  
 - Specializes in HR, strategy, and IT consulting  
-- ~200 employees serving small–mid-sized clients  
+- 200 employees serving small mid sized clients  
 - Preparing to open 5 new offices in 18 months  
 - Needs scalable, secure, collaborative technology solutions
 
@@ -123,8 +122,7 @@ Azure provides the most balanced, future-ready platform for business expansion.
 ---
 
 ## 📘 Conclusion
-Cloud adoption is essential for the company’s regional growth. After evaluating AWS, Azure, and GCP, **Azure** stands out as the provider that offers the strongest combination of integration, security, flexibility, and scalability.  
-This strategic cloud migration empowers the company to modernize operations, support remote and multi-office collaboration, and build a technology foundation capable of sustaining long-term success.
+Cloud adoption is essential for the company’s regional growth. After evaluating AWS, Azure, and GCP, **Azure** stands out as the provider that offers the strongest combination of integration, security, flexibility, and scalability. This strategic cloud migration empowers the company to modernize operations, support remote and multi-office collaboration, and build a technology foundation capable of sustaining long-term success.
 
 ---
 
