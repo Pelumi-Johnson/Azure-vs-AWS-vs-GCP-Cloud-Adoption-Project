@@ -133,5 +133,4 @@ Cloud adoption is essential for the company’s regional growth. After evaluatin
 - Microsoft Azure (2024) – https://azure.microsoft.com  
 - AWS Cloud Products (2024) – https://aws.amazon.com  
 - Google Cloud Documentation (2024) – https://cloud.google.com  
-- Azure vs AWS Cloud Comparison – Business.com
 
